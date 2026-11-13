@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_-H6RcL3pEfGzufBVi8MCFQ" name="movies_clean" id="_-H5qYL3pEfGzufBVi8MCFQ" dataPackage="_-H6Rcb3pEfGzufBVi8MCFQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/sheld/Documents/talend_output/movies_clean.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_-H6Rcb3pEfGzufBVi8MCFQ" name="default" dataManager="_-H6RcL3pEfGzufBVi8MCFQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_-H6Rcr3pEfGzufBVi8MCFQ" id="_eChpYL3pEfGzufBVi8MCFQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-H6Rc73pEfGzufBVi8MCFQ" label="movie_id" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-H6RdL3pEfGzufBVi8MCFQ" label="year_of_release" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-H6Rdb3pEfGzufBVi8MCFQ" label="Genre" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-H6Rdr3pEfGzufBVi8MCFQ" label="Director" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-H6Rd73pEfGzufBVi8MCFQ" label="true_rating" length="-1" precision="2" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-H6ReL3pEfGzufBVi8MCFQ" label="IMDB_ratings" length="-1" precision="2" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-H6Reb3pEfGzufBVi8MCFQ" label="country" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

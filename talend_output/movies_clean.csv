@@ -1,0 +1,49 @@
+movie_id,year_of_release,Genre,Director,true_rating,IMDB_ratings,country
+tt0111161,1994,Drama,Frank Darabont,9.3,9.3,USA
+tt0816692,2014,Sci-Fi,Christopher Nolan,8.6,8.6,USA
+tt0099685,1990,Crime,Francis Ford Coppola,9.0,9.0,USA
+tt1345836,2012,Adventure,Christopher Nolan,8.4,8.4,UK
+tt0133093,1998,Drama,Steven Spielberg,8.8,8.8,USA
+tt0110912,1994,Drama,Frank Darabont,8.9,8.9,IN
+tt0120737,2001,Adventure,Peter Jackson,8.8,8.8,USA
+tt1201607,2011,Action,Gore Verbinski,6.7,6.7,USA
+tt0093779,1986,Drama,Oliver Stone,8.1,8.1,UK
+tt0245429,2001,Adventure,Chris Columbus,7.6,7.6,USA
+tt0332452,2003,Adventure,Gore Verbinski,7.0,7.0,USA
+tt0119177,1995,Family,John Lasseter,8.3,8.3,USA
+tt0076759,1977,Action,George Lucas,8.6,8.6,UK
+tt0109830,1993,Adventure,Steven Spielberg,8.1,8.1,USA
+tt0088763,1984,Action,James Cameron,8.5,8.5,USA
+tt0120338,2001,Fantasy,Peter Jackson,8.8,8.8,USA
+tt0110413,1994,Drama,Robert Zemeckis,8.8,8.8,USA
+tt0112384,1994,Drama,Robert Zemeckis,8.8,8.8,UK
+tt0071562,1972,Drama,Francis Ford Coppola,9.2,9.2,USA
+tt0110357,1994,Drama,Robert Zemeckis,8.8,8.8,USA
+tt0167260,2002,Adventure,Peter Jackson,8.7,8.7,USA
+tt0068646,1972,Crime,Francis Ford Coppola,9.2,9.2,UK
+tt0082971,1982,Sci-Fi,Steven Spielberg,7.9,7.9,USA
+tt0120815,2001,Adventure,Steven Spielberg,8.9,8.9,IN
+tt0338013,2004,Adventure,Andrew Adamson,6.9,6.9,CN
+tt0211915,2000,Action,Ang Lee,7.7,7.7,UK
+tt0241527,2000,Adventure,Gore Verbinski,7.9,7.9,USA
+tt0120915,2001,Adventure,David Yates,7.5,7.5,USA
+tt0337978,2002,Fantasy,Peter Jackson,8.9,8.9,USA
+tt0325980,2002,Fantasy,Chris Columbus,7.4,7.4,USA
+tt0108052,1993,Drama,Steven Spielberg,7.6,7.6,USA
+tt0347149,2004,Comedy,Brad Bird,8.5,8.5,USA
+tt0120735,2001,Fantasy,Peter Jackson,8.8,8.8,USA
+tt0317248,2004,Comedy,Brad Bird,8.5,8.5,USA
+tt0167261,2002,Adventure,Peter Jackson,8.6,8.6,USA
+tt0351283,2004,Action,Alfonso Cuarón,7.9,7.9,UK
+tt0372784,2004,Comedy,Brad Bird,8.0,8.0,USA
+tt0119654,1996,Fantasy,Robert Zemeckis,8.5,8.5,IN
+tt0359950,2004,Adventure,Andrew Adamson,6.9,6.9,USA
+tt0330373,2003,Drama,Peter Weir,8.0,8.0,CN
+tt0198781,2000,Action,Ridley Scott,7.5,7.5,USA
+tt0208092,2000,Action,Ridley Scott,7.5,7.5,USA
+tt0119698,1996,Drama,Cameron Crowe,7.3,7.3,UK
+tt0468569,2008,Action,Christopher Nolan,9.0,9.0,USA
+tt1375666,2010,Action,Christopher Nolan,8.8,8.8,USA
+tt0137523,1999,Action,The Wachowskis,8.7,8.7,USA
+tt0363771,2004,Adventure,Andrew Adamson,6.9,6.9,USA
+tt0118799,1996,Comedy,Joel Coen,8.1,8.1,IN
